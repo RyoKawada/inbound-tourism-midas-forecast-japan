@@ -1,1 +1,1 @@
-# inbound-tourism-midas-forecast-japan
+# Inbound Tourism MIDAS Forecast Japan
